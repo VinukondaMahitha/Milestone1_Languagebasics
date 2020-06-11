@@ -1,6 +1,6 @@
 package com.wipro.flowcontrol;
 
-public class Ex4B {
+public class Ex1B {
 public static void main(String[] args) {
 	int a=Integer.parseInt(args[0]);
 	int b=Integer.parseInt(args[1]);

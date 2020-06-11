@@ -1,6 +1,6 @@
 package com.wipro.flowcontrol;
 
-public class Ex4A 
+public class Ex1A 
 {
 	public static void main(String[] args) 
 	{

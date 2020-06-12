@@ -25,7 +25,7 @@ public static void main(String[] args) {
 		System.out.println("White");
 		break;
 	default :
-		System.out.println("Invalid color");
+		System.out.println("Invalid Code");
 	}
 }
 }

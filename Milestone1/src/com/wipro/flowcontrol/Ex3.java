@@ -9,9 +9,12 @@ public class Ex3
 		}
 		else
 		{
-			for(String i : args)
+			for(int i=0;i<args.length;i++)
 			{
-				System.out.print(i+",");
+				if(i==args.length-1)
+					System.out.print(args[i]);
+				else
+					System.out.print(args[i]+",");
 			}
 		}
 	}
